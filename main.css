@@ -1,0 +1,315 @@
+body {
+	background-color: #e5e5e5;
+	color: #000305;
+	font-size: 87.5%; 
+	font-family: 'Trebuchet MS', Trebuchet, 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	line-height: 1.429;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+	}
+	
+.body {
+	clear: both; 
+	margin: 0 auto; 
+	max-width: 100%;
+	
+	height: auto;
+}
+	
+.topcontent header h1{
+	text-align: center;
+	color:#09C;
+}
+
+a {
+	outline: 0;
+	text-decoration: none;
+	}
+
+a img {
+	border: 0px; 
+	text-decoration: none;
+}
+
+
+
+.mainHeader nav {
+	background: #0B615E;
+	font-size: 1.143em;
+	height: 40px;
+	line-height: 30px;
+	margin: 0;
+	text-align: center;
+	
+	
+}
+	
+.mainHeader nav ul {
+	list-style: none; 
+	margin: 0;
+	width: 100;
+	display: inline;
+}
+
+.mainHeader nav ul li {
+	display: inline; 
+}
+	
+.mainHeader nav a:link, .mainHeader nav a:visited {
+	color: #fff;
+	display: inline-block;
+	height: 30px;
+	padding: 5px 23px;
+	text-decoration: none;
+}
+.mainHeader nav a:hover, .mainHeader nav a:active,
+.mainHeader nav .active a:link, .mainHeader nav .active a:visited {
+	background: #CF5C3F;
+	color: #fff;
+	text-shadow: none;
+}
+	
+.mainHeader nav li a {
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+.mainHeader img {
+	width: 30%;
+	height: auto;
+	margin: 3% 0;
+}
+
+
+img
+{
+	max-width: 100%;
+	height: auto;
+}
+.mainContent {
+	line-height: 25px;
+	width: 800px;
+	margin: 0 auto;
+	text-align: left;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	
+}
+
+.topcontent {
+	
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	padding-bottom: 5%;
+	margin-bottom: 3%;
+	max-width: 100%;
+	height: auto;
+	
+}
+
+
+h2{
+	text-align: center;
+	
+	
+}
+
+p{
+	text-align:center;
+	
+}
+
+.description
+{
+	  max-width: 80%;
+  	  margin-left: auto;
+ 	  margin-right: auto;
+	  height: auto;
+	  min-width: 800px;
+	  
+}
+
+.quick
+{
+	background-color: #0B615E;	
+	height: 50px;
+	text-align: center;
+	padding-top: 15px;
+	color: #FFF;
+	font-size: 20px;
+}
+
+.quick1
+{
+	background-color: #FFD700;	
+	height: 50px;
+	text-align: center;
+	padding-top: 15px;
+	color: #000;
+	font-size: 20px;
+}
+
+.quick2
+{
+	background-color: #CFAF00;	
+	height: 50px;
+	text-align: center;
+	padding-top: 15px;
+	color: #000;
+	font-size: 20px;
+}
+
+.quick3
+{
+	background-color: #3399FF;	
+	height: 50px;
+	text-align: center;
+	padding-top: 15px;
+	color: #000;
+	font-size: 20px;
+}
+
+.quick4
+{
+	background-color: #339966;	
+	height: 50px;
+	text-align: center;
+	padding-top: 15px;
+	color: #000;
+	font-size: 20px;
+}
+
+.quick5
+{
+	background-color: #669900;	
+	height: 50px;
+	text-align: center;
+	padding-top: 15px;
+	color: #000;
+	font-size: 20px;
+}
+
+.pathway{
+	margin: 10px auto;
+	text-align: center;
+}
+
+.semesterGrp {
+	display: inline;
+	height: 60px;
+	width: 150px;
+	border: 1px solid black;
+	text-align: center;
+	margin: 20px;
+	padding: 5px;
+
+}
+
+
+
+.mainFooter {
+	width: 100%;
+	float: left;
+	padding-left: 0;
+	background-color: #0B615E;
+	color: #FFF;	
+}
+
+.mainFooter p {
+	max-width: 100%;
+	height: auto;
+	margin: 2% auto;
+}
+
+.description .boxes
+{
+	
+		
+    background-color: white;
+    width: 100%;
+	height: auto;
+    margin-left: auto;
+	margin-right: auto;
+	margin: 15px;
+	float: left;
+		
+}
+
+.boxes p
+{	text-align: left;
+	padding: 15px;
+	font-size:14px;
+	margin: 10px;	
+}
+
+
+#container{
+		margin:0 auto;
+		text-align:left;
+		width:600px;
+		background:#0099CC;
+	}
+	
+#div0, #div1, #div2, #div3, #div4, #div5, #div6, #div7, #div8, #div9, #div10, #div11, #div12
+{
+	float:left;
+	margin:20px;
+	width:130px;
+	height:145px;
+	border:2px solid #555;
+	overflow:hidden;
+	text-align:center;
+	font-size:12px;
+	font-weight:bold;
+}
+
+.subjects1{
+		float:left;
+		margin:20px;
+		width:100px;
+		height:100px;
+		border:2px solid #555;
+		overflow:hidden;
+		position:relative;
+		
+	}
+	
+.semesterOne {
+	float: left;
+	width: 170px;
+	height:800px;
+	padding-bottom: 10px;
+	
+}
+
+.semesterTwo{
+	margin: 5x;
+	margin-top: 10px;
+	float:left;
+}
+
+.semesterThree{
+	float: left;
+	margin: 20px;
+	margin-left: 40px;
+}
+
+.semesterSix{
+	float: left;
+	margin: 20px;
+	margin-left: 35px;
+}
+
+.rightVideo{
+	margin: 15px auto;
+	text-align: center;
+}
+
+
+
+	
+	

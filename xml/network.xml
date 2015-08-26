@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CourseList>
+	<Course id="1">
+		<Id>ISCG6411</Id>
+		<Title>Project Planning and Control</Title>
+	</Course>
+	<Course id="2">
+		<Id>ISCG6402</Id>
+		<Title>Network Administration and Support</Title>
+	</Course>
+	<Course id="3">
+		<Id>ISCG7400</Id>
+		<Title>Computer Systems Security</Title>
+	</Course>
+	<Course id="4">
+		<Id>ISCG6401</Id>
+		<Title>Data Communications and Networks</Title>
+	</Course>
+	<Course id="5">
+		<Id>ISCG6403</Id>
+		<Title>Network Operating Systems Management</Title>
+	</Course>
+	<Course id="6">
+		<Id>ISCG7401 </Id>
+		<Title>Advanced Data Communications</Title>
+	</Course>
+	<Course id="7">
+		<Id>ISCG7402 </Id>
+		<Title>Network Design and Implementation</Title>
+	</Course>
+</CourseList>

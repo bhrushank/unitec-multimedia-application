@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CourseList>
+	<Course id="1">
+		<Id>ISCG6411</Id>
+		<Title>Project Planning and Control</Title>
+	</Course>
+	<Course id="2">
+		<Id>ISCG6402</Id>
+		<Title>Network Administration and Support</Title>
+	</Course>
+	<Course id="3">
+		<Id>ISCG7406</Id>
+		<Title>Cyber Security Policy</Title>
+	</Course>
+	<Course id="4">
+		<Id>ISCG6401</Id>
+		<Title>Data Communications and Networks</Title>
+	</Course>
+	<Course id="5">
+		<Id>ISCG6403</Id>
+		<Title>Network Operating Systems Management</Title>
+	</Course>
+	<Course id="6">
+		<Id>ISCG7407 </Id>
+		<Title>Advanced Cyber Security</Title>>
+	</Course>
+	<Course id="7">
+		<Id>ISCG6400 </Id>
+		<Title>Hardware Technology</Title>
+	</Course>
+	<Course id="8">
+		<Id>ISCG6407 </Id>
+		<Title>Fundamental Concepts in Cyber Security</Title>
+	</Course>
+	<Course id="9">
+		<Id>ISCG7404</Id>
+		<Title>Computer Forensic Investigations</Title>
+	</Course>
+</CourseList>

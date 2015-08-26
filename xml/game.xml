@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CourseList>
+	<Course id="1">
+		<Id>ISCG6411</Id>
+		<Title>Project Planning and Control</Title>
+	</Course>
+	<Course id="2">
+		<Id>ISCG6422</Id>
+		<Title>Multimedia Programming</Title>
+	</Course>
+	<Course id="3">
+		<Id>ISCG7422</Id>
+		<Title>Multimedia Application Development</Title>
+	</Course>
+	<Course id="4">
+		<Id>ISCG6414</Id>
+		<Title>Systems Analysis and Design</Title>
+	</Course>
+	<Course id="5">
+		<Id>ISCG6421</Id>
+		<Title>GUI Programming</Title>
+	</Course>
+	<Course id="6">
+		<Id>ISCG7441 </Id>
+		<Title> Advanced Game Programming</Title>
+	</Course>
+	<Course id="7">
+		<Id>ISCG6441 </Id>
+		<Title>Visual Game Design</Title>
+	</Course>
+	<Course id="8">
+		<Id>ISCG6442 </Id>
+		<Title>Game Programming</Title>
+	</Course>
+	<Course id="9">
+		<Id>ISCG7424</Id>
+		<Title>Mobile Software Development</Title>
+	</Course>
+	<Course id="10">
+		<Id>ISCG74242</Id>
+		<Title>Game Industry Practices</Title>
+	</Course>
+</CourseList>

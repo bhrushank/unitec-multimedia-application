@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CourseList>
+	<Course id="1">
+		<Id>ISCG6411</Id>
+		<Title>Project Planning and Control</Title>
+	</Course>
+	<Course id="2">
+		<Id>ISCG6424</Id>
+		<Title>User Interface Design</Title>
+	</Course>
+	<Course id="3">
+		<Id>ISCG7414</Id>
+		<Title>Business Systems Analysis</Title>
+	</Course>
+	<Course id="4">
+		<Id>ISCG6414</Id>
+		<Title>Systems Analysis and Design</Title>
+	</Course>
+	<Course id="5">
+		<Id>ISCG6421</Id>
+		<Title>GUI Programming</Title>
+	</Course>
+	<Course id="6">
+		<Id>ISCG742</Id>
+		<Title>Business Process Modelling</Title>	
+	</Course>
+	<Course id="7">
+		<Id>ISCG6423 </Id>
+		<Title>Database Design and Development</Title>		
+	</Course>
+	<Course id="8">
+		<Id>ISCG6413 </Id>
+		<Title>Testing and Quality Assurance in ICT</Title>
+	</Course>
+	<Course id="9">
+		<Id>ISCG7426</Id>
+		<Title>Data Mining</Title>		
+	</Course>
+	<Course id="10">
+		<Id>ISCG7413</Id>
+		<Title>Testing and Quality Assurance Management</Title>		
+	</Course>
+</CourseList>
